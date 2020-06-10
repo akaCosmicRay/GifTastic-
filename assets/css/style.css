@@ -1,0 +1,42 @@
+body{
+    background-color: white;
+}
+#topic-form {
+    margin: 2em auto;
+    text-align: center;
+}
+.btn-info {
+    margin: 2px;
+}
+.container-fluid {
+  background-color: white;
+  height: auto;
+  margin-top: 20px;
+}
+h1 {
+    font-family: fantasy;
+    height: 75px;
+    padding-top: 10px;
+    color: rgb(100, 209, 209);
+    text-align: center;
+    border-bottom: 2px solid black;
+    
+}
+#form-input,
+#col-sm-3 {
+    margin: 0px 0px 0px 0px !important;
+    max-width: 100% !important;
+}
+.btn{
+    background-color: yellowgreen;
+    border: none;
+    text-align: center;
+}
+#add-topic{
+    background-color: rgb(100, 209, 209);
+    border-color: rgb(100, 209, 209);
+}
+img{
+    text-align: center !important;
+}
+
